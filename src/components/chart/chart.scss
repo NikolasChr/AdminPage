@@ -1,3 +1,16 @@
 .chart {
     flex:4;
+    box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
+-webkit-box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
+-moz-box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
+    padding: 10px;
+    color: gray;
+
+    .title{
+        font-size: 20px;
+        font-weight: bold;
+        justify-content: center;
+        display: flex;
+        margin-bottom: 20px;
+    }
 }
