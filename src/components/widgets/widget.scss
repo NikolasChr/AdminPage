@@ -4,9 +4,9 @@
     flex:1;
     padding: 10px;
     justify-content: space-between;
-    box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
--webkit-box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
--moz-box-shadow: 2px -2px 36px -4px rgba(51,32,32,0.53);
+    box-shadow: 2px -2px 36px -4px rgba(236, 230, 230, 0.53);
+-webkit-box-shadow: 2px -2px 36px -4px rgba(229, 207, 207, 0.53);
+-moz-box-shadow: 2px -2px 36px -4px rgba(225, 208, 208, 0.53);
 
 .left,
  .right {
@@ -41,7 +41,7 @@
         padding: 5px;
         border-radius: 5px;
         align-self: flex-end;
-        background-color: pink;
+        background-color: rgb(46, 42, 43);
     }
   }
 }
